@@ -7,7 +7,11 @@ namespace ancovicConApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Novo");
+            Console.WriteLine("Novo2");
         }
     }
 }
+
+
+
+//promjenila Novo u Novo2
